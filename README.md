@@ -1,2 +1,2 @@
 # Zoopedia
-Guia dos animais do jogo Planet zoo
+App com guia dos animais do jogo Planet zoo
